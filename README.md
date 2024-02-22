@@ -1,5 +1,5 @@
 # FOLDER SYNC
-This is a folder synchronization project in Python, that every periodic and automatic synchronization, a record of operations is saved into a log file.
+This is a folder synchronization project in Python that periodically and automatically synchronizes files between two folders, while recording operations into a log file.
 
 ## INSTRUCTIONS:
 1. Inside the main folder, there are two folders(source_folder and replica_folder) that were used to demonstrate the code in full operation, simply inserting
