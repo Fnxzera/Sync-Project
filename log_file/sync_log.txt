@@ -1,0 +1,7 @@
+File copied: folder source test from source.
+File copied: img test.bmp from source.
+File copied: test 4.txt from source.
+File copied: teste 1.txt from source.
+Folder syncronized: source_folder -> replica_folder
+File deleted: replica_folder\test 5.txt
+Folder deteled from replic: replica_folder\test delete folder
